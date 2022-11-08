@@ -41,7 +41,7 @@ $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
 $ git clone https://github.com/AyGemuy/Hinata
-$ cd Hinata
+$ cd EXCELLBOTV(VERSI YG KAMU DOWNLOAD SEKARANG)
 $ npm i 
 ```
 
@@ -88,7 +88,7 @@ ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
 git clone https://github.com/AyGemuy/Hinata
-cd Hinata
+cd EXCELLBOTV(YG KAMU DOWNLOAD)
 npm install
 npm update
 ```
@@ -104,7 +104,7 @@ npm update
 
 ```bash
 git clone https://github.com/AyGemuy/Hinata
-cd Hinata
+cd EXCELLBOTV (YG KAMU DOWNLOAD)
 npm install
 npm update
 ```
